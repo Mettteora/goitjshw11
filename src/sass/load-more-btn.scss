@@ -4,7 +4,7 @@
 
 .load-more {
   align-items: center;
-  background-color: rgb(153, 237, 225);
+  background-color: rgb(59, 24, 215);
   border-radius: 24px;
   border-style: none;
   box-shadow: rgba(0, 0, 0, 0.2) 0 3px 5px -1px,
@@ -32,19 +32,10 @@
   color: #174ea6;
 }
 
-
-
-
-
 .load-more:hover:not(:disabled) {
   filter: brightness(1.1);
   -webkit-filter: brightness(1.1);
 }
-
-
-
-
-
 
 // .button-17:not(:disabled) {
 //   box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
@@ -57,7 +48,6 @@
 // .button-17:not(:disabled):focus {
 //   box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
 // }
-
 
 // .load-more:disabled {
 // 	background: #f6f9fe;
